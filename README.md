@@ -37,7 +37,7 @@ simple-mvc
 │   └── servicosController.php
 │   └── contatoController.php  
 └── views
-	  └── template.php
+    └── template.php
     └── home.php
     └── empresa.php
     └── servicos.php
