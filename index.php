@@ -1,6 +1,6 @@
 <?php
 
-require('inc/editImage.php')
+require('inc/editImage.php');
 require('config.php');
 
 spl_autoload_register(function ($class){
